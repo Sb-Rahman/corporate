@@ -1,0 +1,343 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h3{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+
+.learn{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 30px;
+}
+.firstmenu{
+    text-transform: uppercase;
+    background: silver;
+    overflow: hidden;
+    text-align: center;
+    font-weight: bold;
+}
+.firstmenu ul li{
+float: left;
+display: block;
+overflow: hidden;
+padding: 20px;
+margin-left: 30px;
+}
+.firstmenu ul li a{
+    color:#00000091;
+}
+.firstmenu ul li a:hover{
+    color: #d43f3a;
+}
+header{
+    max-width: 100%;
+    overflow: hidden;
+    display: block;
+}
+.btn-warning{
+    background: white;
+    color: black;
+}
+.col-md-3 .btn-danger{
+    background: white;
+    color: black;
+}
+.col-md-3 .btn-danger:hover{
+background: #d43f3a;
+color: white;
+}
+.firstfloatingv{
+    margin-top: 30px;
+    overflow: hidden;
+    display: block;
+}
+.cityourn{
+    font-size: 25px;
+    font-family: fantasy;
+}
+.cityourn a{
+    color: black;
+}
+.cityourn a:hover{
+    color: #d43f3a;
+}
+.col-md-3 p{
+    color: silver;
+}
+header .col-md-3 img{
+    max-width: 20px;
+    max-height: 20px;
+    margin: auto;
+    overflow: hidden;
+    display: inline-flex;
+}
+.bgimagethakbe{
+    background: url(images/flag.jpg) no-repeat;
+    overflow: hidden;
+    display: block;
+    width: 1349px;
+    height: 450px;
+    background-size: cover;
+    color: white;
+    margin-bottom: 50px;
+}
+.textonlyover{
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 150px;
+   
+}
+
+.col-md-6 img{
+    max-width: 560px;
+    max-height: 374px;
+}
+.sectiontwo h3{
+    text-align: left;
+}
+.sectiontwo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: block;
+    overflow: hidden;
+}
+.thirtsection{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #eee;
+    overflow: hidden;
+    display: block;
+}
+.appication{
+    color: white;
+    background: navy;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-size: large;
+}
+.fifthsection{
+    margin: auto;
+    max-width: 600px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    overflow: hidden;
+    display: block;
+}
+.nextoffive{
+    margin-bottom: 50px;
+    overflow: hidden;
+    display: block;
+}
+.nextoffive img{
+    width: 280px;
+    height: 180px;
+    margin-bottom: 20px;
+}
+.veiw{
+    max-width: 200px;
+    margin: auto;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: block;
+    overflow: hidden;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.veiw:hover{
+    background: #d43f3a;
+    color: white;
+    cursor: pointer;
+}
+.sixsection{
+    background: #eee;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    padding-bottom: 50px;
+}
+.undersix{
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.sevensection{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    overflow: hidden;
+    display: block;
+}
+.sevensection a{
+    color: blue;
+}
+.sevensection h3{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.sevensection img{
+    max-width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.eightsection{
+    overflow: hidden;
+    display: block;
+    background: blue;
+    
+}
+.texarea{
+    max-width: 600px;
+    margin: auto;
+    overflow: hidden;
+    display: block;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #eee;
+}
+.texarea h4{
+    color: white;
+    font-size: 30px;
+    overflow: hidden;
+    display: block;
+}
+.texarea button{
+    border: none;
+}
+.additionaldiv h3{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    overflow: hidden;
+    display: block;
+}
+.additionaldiv{
+    overflow: hidden;
+    display: block;
+    margin-bottom: 50px;
+}
+.additionaldiv img{
+    max-width: 400px;
+    max-height: 250px;
+    margin-bottom: 20px;
+}
+.additionaldiv h5{
+    color: blue;
+    font-size: 20px;
+}
+.vieewall{
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+    display: block;
+    max-width: 200px;
+    border: 1px solid #d43f3a;
+    border-radius: 5px;
+    overflow: hidden;
+    display: block;
+    margin-bottom: 50px;
+}
+.vieewall:hover{
+    color: white;
+    background: #d43f3a;
+    cursor: pointer;
+    
+}
+.nine{
+    overflow: hidden;
+    display: block;
+    background: silver;
+    color: slategrey;
+}
+.nine h3{
+    color: rgb(92, 96, 100);
+}
+.nine img{
+    max-width: 450px;
+    height: 900px;
+    
+}
+.nine .leftcont h3{
+    text-align: left;
+}
+.nine .leftcont{
+    margin-left: 50px;
+    text-align: left;
+    overflow: hidden;
+    display: block;
+}
+.nine .leftcont input{
+    height: 35px;
+    width: 200px;
+   
+    border: none;
+    border-radius: 2px;
+}
+
+#idname{
+    width: 71%;
+    height: 80px;
+    margin-bottom: 50px;
+}
+.ten{
+    display: block;
+    overflow: hidden;
+    margin-top: 50px;
+}
+.ten .col-md-4{
+    padding: 10px;
+    border-right: 2px solid gray;
+}
+.ten .col-md-4:last-child{
+    border: none;
+}
+.theend{
+    color: white;
+    background: rgb(32, 32, 65);
+    display: block;
+    overflow: hidden;
+    margin-top: 50px;
+}
+.theend ul li{
+    float: left;
+    margin-left: 50px;
+}
+.theend img{
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
+.thelastlogocredit{
+    background: rgb(32, 32, 65);
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.thelastlogocredit .logonlylast{
+    margin-left: 50px;
+    margin-right: 800px;
+    float: left;
+}
+.needfixing{
+    margin-bottom: 50px;
+}
+.logonlylast{
+    font-size: 20px;
+}
+
+.fixing5{
+    margin-left: 50px;
+    margin-right: 50px; 
+}
